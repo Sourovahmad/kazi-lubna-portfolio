@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Facebook",
+        "icon": "https://img.icons8.com/color/48/000000/facebook-new.png"
+    },
+    {
+        "name": "LinkedIn",
+        "icon": "https://img.icons8.com/color/48/000000/linkedin.png"
+    },
+    {
+        "name": "Social Marketing",
+        "icon": "https://img.icons8.com/color/48/000000/twitter-squared.png"
+    },
+    {
+        "name": "Page Marketing",
+        "icon": "https://img.icons8.com/color/48/000000/facebook-circled.png"
+    },
+    {
+        "name": "Email Marketing",
+        "icon": "https://img.icons8.com/color/48/000000/email.png"
+    },
+    {
+        "name": "Content",
+        "icon": "https://img.icons8.com/color/48/000000/megaphone.png"
+    }
+]
