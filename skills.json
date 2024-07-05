@@ -1,26 +1,28 @@
 [
     {
-        "name": "Facebook",
+        "name": "Facebook Marketing",
         "icon": "https://img.icons8.com/color/48/000000/facebook-new.png"
     },
     {
-        "name": "LinkedIn",
+        "name": "Instagram Marketing",
+        "icon": "https://img.icons8.com/color/48/000000/instagram.png"
+    },
+    {
+        "name": "LinkedIn Marketing",
         "icon": "https://img.icons8.com/color/48/000000/linkedin.png"
     },
     {
-        "name": "Social Marketing",
+        "name": "Twitter Marketing",
         "icon": "https://img.icons8.com/color/48/000000/twitter-squared.png"
     },
     {
-        "name": "Page Marketing",
-        "icon": "https://img.icons8.com/color/48/000000/facebook-circled.png"
+        "name": "Youtube Marketing",
+        "icon": "https://img.icons8.com/color/48/000000/youtube.png"
     },
     {
-        "name": "Email Marketing",
+        "name": "Ads & Bosting",
         "icon": "https://img.icons8.com/color/48/000000/email.png"
-    },
-    {
-        "name": "Content",
-        "icon": "https://img.icons8.com/color/48/000000/megaphone.png"
     }
+
+
 ]
